@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\PrimerProyectoDACTIC\Tarea4Cley\Tarea4Cley\bin\Debug\net8.0\Tarea4Cley.exe
+C:\Users\DELL\Documents\PrimerProyectoDACTIC\Tarea4Cley\Tarea4Cley\bin\Debug\net8.0\Tarea4Cley.deps.json
+C:\Users\DELL\Documents\PrimerProyectoDACTIC\Tarea4Cley\Tarea4Cley\bin\Debug\net8.0\Tarea4Cley.runtimeconfig.json
+C:\Users\DELL\Documents\PrimerProyectoDACTIC\Tarea4Cley\Tarea4Cley\bin\Debug\net8.0\Tarea4Cley.dll
+C:\Users\DELL\Documents\PrimerProyectoDACTIC\Tarea4Cley\Tarea4Cley\bin\Debug\net8.0\Tarea4Cley.pdb
+C:\Users\DELL\Documents\PrimerProyectoDACTIC\Tarea4Cley\Tarea4Cley\obj\Debug\net8.0\Tarea4Cley.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\PrimerProyectoDACTIC\Tarea4Cley\Tarea4Cley\obj\Debug\net8.0\Tarea4Cley.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\PrimerProyectoDACTIC\Tarea4Cley\Tarea4Cley\obj\Debug\net8.0\Tarea4Cley.AssemblyInfo.cs
+C:\Users\DELL\Documents\PrimerProyectoDACTIC\Tarea4Cley\Tarea4Cley\obj\Debug\net8.0\Tarea4Cley.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\PrimerProyectoDACTIC\Tarea4Cley\Tarea4Cley\obj\Debug\net8.0\Tarea4Cley.sourcelink.json
+C:\Users\DELL\Documents\PrimerProyectoDACTIC\Tarea4Cley\Tarea4Cley\obj\Debug\net8.0\Tarea4Cley.dll
+C:\Users\DELL\Documents\PrimerProyectoDACTIC\Tarea4Cley\Tarea4Cley\obj\Debug\net8.0\refint\Tarea4Cley.dll
+C:\Users\DELL\Documents\PrimerProyectoDACTIC\Tarea4Cley\Tarea4Cley\obj\Debug\net8.0\Tarea4Cley.pdb
+C:\Users\DELL\Documents\PrimerProyectoDACTIC\Tarea4Cley\Tarea4Cley\obj\Debug\net8.0\Tarea4Cley.genruntimeconfig.cache
+C:\Users\DELL\Documents\PrimerProyectoDACTIC\Tarea4Cley\Tarea4Cley\obj\Debug\net8.0\ref\Tarea4Cley.dll
